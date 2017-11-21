@@ -1,3 +1,8 @@
+@font-face{
+  font-family: thelightfont;
+  src: url('TheLightFont.otf');
+}
+
 p{
-  font-family: TheLightFont.otf;
+  font-family: thelightfont;
 }
